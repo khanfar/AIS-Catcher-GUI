@@ -11,7 +11,8 @@ A modern, user-friendly GUI wrapper for [AIS-catcher](https://github.com/jvde-gi
 
 *Developed by M Khanfar © 2025*
 
-</div>
+![Screenshot 2025-01-27 015553](https://github.com/user-attachments/assets/58dedf37-aea3-4528-9299-747457f7ce75)
+
 
 ## 🌟 Overview
 
