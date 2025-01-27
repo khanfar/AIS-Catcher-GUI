@@ -17,6 +17,9 @@ A modern, user-friendly GUI wrapper for [AIS-catcher](https://github.com/jvde-gi
 
 This GUI provides an intuitive interface for AIS-catcher without modifying its core functionality. It's designed to make AIS message reception accessible to everyone, whether you're using a local RTL-SDR device or connecting to remote servers.
 
+![Uploading Screenshot 2025-01-27 015553.png…]()
+
+
 ## ✨ Features
 
 ### 🔌 Connection Options
